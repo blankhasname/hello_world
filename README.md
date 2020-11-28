@@ -1,3 +1,3 @@
-# This is Hello World Project
+# This is Hello World repo
 
 # new commit
